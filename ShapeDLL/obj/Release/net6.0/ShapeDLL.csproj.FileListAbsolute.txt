@@ -1,0 +1,12 @@
+C:\Users\stefa\source\repos\ShapeDLL\ShapeDLL\bin\Release\net6.0\ShapeDLL.deps.json
+C:\Users\stefa\source\repos\ShapeDLL\ShapeDLL\bin\Release\net6.0\ShapeDLL.dll
+C:\Users\stefa\source\repos\ShapeDLL\ShapeDLL\bin\Release\net6.0\ShapeDLL.pdb
+C:\Users\stefa\source\repos\ShapeDLL\ShapeDLL\obj\Release\net6.0\ShapeDLL.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\ShapeDLL\ShapeDLL\obj\Release\net6.0\ShapeDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\source\repos\ShapeDLL\ShapeDLL\obj\Release\net6.0\ShapeDLL.AssemblyInfoInputs.cache
+C:\Users\stefa\source\repos\ShapeDLL\ShapeDLL\obj\Release\net6.0\ShapeDLL.AssemblyInfo.cs
+C:\Users\stefa\source\repos\ShapeDLL\ShapeDLL\obj\Release\net6.0\ShapeDLL.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\ShapeDLL\ShapeDLL\obj\Release\net6.0\ShapeDLL.dll
+C:\Users\stefa\source\repos\ShapeDLL\ShapeDLL\obj\Release\net6.0\refint\ShapeDLL.dll
+C:\Users\stefa\source\repos\ShapeDLL\ShapeDLL\obj\Release\net6.0\ShapeDLL.pdb
+C:\Users\stefa\source\repos\ShapeDLL\ShapeDLL\obj\Release\net6.0\ref\ShapeDLL.dll
